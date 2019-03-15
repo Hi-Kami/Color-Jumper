@@ -1,4 +1,0 @@
--Fix anamation bug, scrach that just do the anamations in code, mechanim is shit for what ya want >.>
--Hide platforms scale then show them/// Fixed another way
--Interface
--Atune via crystals maybe?
